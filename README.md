@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto calculadora 
 ## Python e shell script
 
@@ -31,3 +32,7 @@ Além disso, foi implementado um tratamento específico para a divisão por zero
 
 ## Objetivo :
 Ajudar novos desenvolvedores a criarem seus primeiros projetos !
+=======
+# Projeto-Calculadora
+Meu primeiro projeto em python de calculadora simples.
+>>>>>>> 73b3762b94f1b90cdce92010aa8aa10cfdaa9fe2
