@@ -5,8 +5,6 @@ print('Olá usuário vamos calcular?')
 
 # Calculadora
 
-# Calculadora
-
 print('Calculadora simples em Python!')
 print('Operações: + , - , * , /')
 print('Digite "sair" para encerrar.')
