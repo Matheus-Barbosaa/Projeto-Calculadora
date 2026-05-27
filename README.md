@@ -19,6 +19,7 @@ Além disso, foi implementado um tratamento específico para a divisão por zero
 * calculadora.py
 
 ### Shell Script :
+#### No terminal linux(ubuntu)
 #### script para executar a calculadora
 * chmod +x python_exe_script.sh
 #### tornando o script executável :
