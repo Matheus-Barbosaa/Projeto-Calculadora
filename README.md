@@ -32,7 +32,5 @@ Além disso, foi implementado um tratamento específico para a divisão por zero
 
 ## Objetivo :
 Ajudar novos desenvolvedores a criarem seus primeiros projetos !
-=======
-# Projeto-Calculadora
-Meu primeiro projeto em python de calculadora simples.
+
 
