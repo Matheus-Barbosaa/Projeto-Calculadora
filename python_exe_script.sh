@@ -6,6 +6,6 @@ echo "Criando o script"
 
 echo "O diretório atual é $PWD"
 
-python3 calc.py
+python3 calculadora.py
 
 echo "Fim do Script"
